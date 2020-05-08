@@ -1,6 +1,6 @@
 
 
-The back end of the push notification administration application and is based onNESTJS + CRUD.
+The back end of the push notification administration application and is based on NESTJS + CRUD.
 
 To start :
 
